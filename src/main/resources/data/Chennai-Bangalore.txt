@@ -1,0 +1,38 @@
+[
+    {
+        "busNo": "5537",
+        "operator": "APSRTC",
+        "departureTime": "13:30",
+        "arrivalTime": "17:00",
+        "duration": "3:30hrs",
+        "price": "250",
+        "resultsCount": "1"
+    },
+    {
+        "busNo": "5139",
+        "operator": "TSSRTC",
+        "departureTime": "13:30",
+        "arrivalTime": "17:00",
+        "duration": "3:30hrs",
+        "price": "270",
+        "resultsCount": "1"
+    },
+    {
+        "busNo": "2237",
+        "operator": "SETC",
+        "departureTime": "13:30",
+        "arrivalTime": "17:00",
+        "duration": "3:30hrs",
+        "price": "250",
+        "resultsCount": "1"
+    },
+    {
+        "busNo": "1279",
+        "operator": "KSRTC",
+        "departureTime": "13:30",
+        "arrivalTime": "17:00",
+        "duration": "3:30hrs",
+        "price": "270",
+        "resultsCount": "1"
+    }
+]
